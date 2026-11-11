@@ -1,0 +1,8 @@
+node_modules/
+dist/
+dist-server/
+.env*
+!.env.example
+*.log
+artifacts/
+tmp/pdfs/
